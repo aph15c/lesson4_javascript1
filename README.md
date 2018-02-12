@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 12, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alexis Harvey)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Writing a code to execute a monthl expense calculator program.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://aph15c.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to connect two documents with Id's for varibales.)
+2. (I learned how to determine monthly expenses through equations on my own written code.)
+3. (I learned how to write code that would clear the results from a form.)
 
 
 
